@@ -1,2 +1,4 @@
-# server-go
-rest api in go programming lang
+# go-rest-api-server-template
+
+
+REST api in go programming langauge using [Fiber](https://github.com/gofiber/fiber) framework. 
